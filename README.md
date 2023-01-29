@@ -6,3 +6,11 @@
 
 - MENGHITUNG LUAS LINGKARAN
 ![img 1](screenshot/1.jpg)
+
+
+- FLOWCHART
+
+![img 2](screenshot/2.PNG)
+
+
+SEKIAN DAN TERIMA KASIH

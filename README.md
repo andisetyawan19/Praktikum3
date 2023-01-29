@@ -10,7 +10,11 @@
 
 - FLOWCHART
 
-![img 2](screenshot/2.PNG)
+![img 2][def]
 
 
 SEKIAN DAN TERIMA KASIH
+
+
+
+[def]: screenshot/2.PNG
